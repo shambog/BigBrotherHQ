@@ -1,7 +1,7 @@
 # BigBrotherHQ
-Driver assistance Services- A motion tracking pi that wakes up sleepy drivers. 
+Driver Assistance Services - A motion tracking pi that wakes up sleepy drivers. 
 
-We used many many tutorials and resourses to complete this project. Below are a list of the ones that we shared with eachother on our way to find a solution. 
+We used many many tutorials and resources to complete this project. Below are a list of the ones that we shared with each other on our way to find a solution. 
 
 https://github.com/opencv/opencv/tree/master/data/haarcascades
 http://alereimondo.no-ip.org/OpenCV/34/
