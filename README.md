@@ -3,7 +3,7 @@
 
 This is an award winning hackathon project completed in 36 hours.
 
-
+https://devpost.com/software/bigbrotherhq
 
 ## Hardware Specifications:
 
@@ -17,7 +17,7 @@ Single-board computer:
 ## Software Specifications:
 
 **Raspbian OS** - Raspbian is a Debian-based computer operating system
-**Open CV** - Library of programming functions mainly aimed at real-time computer vision
+</b>**Open CV** - Library of programming functions mainly aimed at real-time computer vision
 
 ## References
 
