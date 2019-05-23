@@ -16,7 +16,7 @@ Single-board computer:
 
 ## Software Specifications:
 
-**Raspbian OS** - Raspbian is a Debian-based computer operating system <b\>
+**Raspbian OS** - Raspbian is a Debian-based computer operating system <br/>
 **Open CV** - Library of programming functions mainly aimed at real-time computer vision
 
 ## References
