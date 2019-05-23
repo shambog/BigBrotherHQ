@@ -5,6 +5,14 @@ This is an award winning hackathon project completed in 36 hours.
 
 https://devpost.com/software/bigbrotherhq
 
+## The Final Product:
+
+A Raspberry Pi underneath, this device is designed to alert a driver if the driver feels sleepy and fatigued. The high resolution cameras on the Pi tracks the eye movements of the driver. The device needs to be attached to the dashboard of a car. The camera needs to face the driver.
+
+<br/> This is a prototype. More features to be added later on.
+
+![demo](https://user-images.githubusercontent.com/35944630/58234393-0b092280-7d04-11e9-9021-cbf57c8584c9.jpg)
+
 ## Hardware Specifications:
 
 **Raspberry Pi 3 Model B+** 
